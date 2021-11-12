@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+.fondo{
+    background-image: url(pdpattern3-02b-gloy.jpg);
+    background-position: center;;
+    background-repeat: space;
+    padding-bottom: 8%;
+    padding-top: 8%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.formu{
+    background-color: #fff7ed;
+    padding: 3%;
+    font-family: 'Bebas Neue', cursive;
+}
+.titulo{
+    font-size: 40px;
+    text-align: center;
+}
+
+.date{
+    color: #555;
+    font-size:15px;
+}
+.text{
+    font-size: 25px;
+}
+.com{
+    font-size: 27px;
+}
+.nom{
+    font-size: 23;
+}
+.cuadro{
+    background-color: rgba(255, 255, 255, 0.71);
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    padding: 10px;
+}
